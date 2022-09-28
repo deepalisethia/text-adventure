@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.adventure.MT9" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-04-05T16:07:12" hostname="Deepalis-MacBook-Pro.local" time="0.341">
+  <properties/>
+  <testcase name="testOmniDoorKey()" classname="com.adventure.MT9" time="0.341"/>
+  <system-out><![CDATA[Key invalid. Please try again.
+The key is configured.
+The door is unlocked!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
